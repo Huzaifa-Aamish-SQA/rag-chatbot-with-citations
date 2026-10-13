@@ -107,7 +107,7 @@ Refusal, in two layers:
 Requirements: Docker Desktop and an OpenAI API key.
 
 ```bash
-git clone https://github.com/Khalid-Mehmood-117/rag-chatbot-with-citations.git
+git clone https://github.com/Huzaifa-Aamish-SQA/rag-chatbot-with-citations.git
 cd rag-chatbot-with-citations
 cp .env.example .env
 docker compose up --build
@@ -143,6 +143,6 @@ cd backend && pytest
 
 ## Author
 
-Khalid Mehmood, AI Engineer. Available for RAG, LLM integration and backend work on Upwork: https://www.upwork.com/freelancers/~015dd01a08f90c57c3
+Huzaifa Aamish, AI Engineer. Available for RAG, LLM integration and backend work on Upwork: https://www.upwork.com/freelancers/~015dd01a08f90c57c3
 
 The sample PDF is a work of the United States federal government and is in the public domain.
