@@ -107,7 +107,7 @@ Refusal, in two layers:
 Requirements: Docker Desktop and an OpenAI API key.
 
 ```bash
-git clone https://github.com/Huzaifa-Aamish-SQA/rag-chatbot-with-citations.git
+git clone https://github.com/Huzaifa-Aamish-AI/rag-chatbot-with-citations.git
 cd rag-chatbot-with-citations
 cp .env.example .env
 docker compose up --build
